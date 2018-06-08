@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="12cm" height="16cm" viewBox="5 3 229 311" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="6.07944" y="4.29603" width="226.981" height="308.813"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="6.07944" y="4.29603" width="226.981" height="308.813"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="119.57" y="162.603">
+      <tspan x="119.57" y="162.603"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="21.2216" y="43.9556" width="48.95" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="21.2216" y="43.9556" width="48.95" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="45.6966" y="66.8556">
+      <tspan x="45.6966" y="66.8556">*</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="45.6966" y="62.9556">
+    <tspan x="45.6966" y="62.9556"></tspan>
+  </text>
+  <g>
+    <g>
+      <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="75.1716" y1="72.0416" x2="127.436" y2="72.0416"/>
+      <polygon style="fill: #000000" points="134.936,72.0416 124.936,77.0416 127.436,72.0416 124.936,67.0416 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="134.936,72.0416 124.936,77.0416 127.436,72.0416 124.936,67.0416 "/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="83.1716" y="61.5695">
+      <tspan x="83.1716" y="61.5695">50 BTC</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="144.497" y="43.9556" width="56.3" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="144.497" y="43.9556" width="56.3" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="172.647" y="66.8556">
+      <tspan x="172.647" y="66.8556">Alicia</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="20.6559" y="88.1829" width="48.95" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="20.6559" y="88.1829" width="48.95" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="45.1309" y="111.083">
+      <tspan x="45.1309" y="111.083">*</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="45.1309" y="107.183">
+    <tspan x="45.1309" y="107.183"></tspan>
+  </text>
+  <g>
+    <g>
+      <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="74.6059" y1="116.269" x2="126.87" y2="116.269"/>
+      <polygon style="fill: #000000" points="134.37,116.269 124.37,121.269 126.87,116.269 124.37,111.269 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="134.37,116.269 124.37,121.269 126.87,116.269 124.37,111.269 "/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="82.6059" y="105.797">
+      <tspan x="82.6059" y="105.797">50 BTC</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="142.956" y="88.1829" width="58.25" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="142.956" y="88.1829" width="58.25" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="172.081" y="111.083">
+      <tspan x="172.081" y="111.083">Belén</tspan>
+    </text>
+  </g>
+  <text font-size="17.5427" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="32.2424" y="22.4884">
+    <tspan x="32.2424" y="22.4884">Registro Contable</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="8.20076" y1="32.3879" x2="221.04" y2="33.095"/>
+  <g>
+    <rect style="fill: #ffffff" x="20.6559" y="134.716" width="48.95" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="20.6559" y="134.716" width="48.95" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="45.1309" y="157.616">
+      <tspan x="45.1309" y="157.616">*</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="45.1309" y="153.716">
+    <tspan x="45.1309" y="153.716"></tspan>
+  </text>
+  <g>
+    <g>
+      <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="74.6059" y1="162.802" x2="126.87" y2="162.802"/>
+      <polygon style="fill: #000000" points="134.37,162.802 124.37,167.802 126.87,162.802 124.37,157.802 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="134.37,162.802 124.37,167.802 126.87,162.802 124.37,157.802 "/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="82.6059" y="152.33">
+      <tspan x="82.6059" y="152.33">50 BTC</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="142.781" y="134.716" width="58.6" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="142.781" y="134.716" width="58.6" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="172.081" y="157.616">
+      <tspan x="172.081" y="157.616">Cesar</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="19.8074" y="179.264" width="48.95" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="19.8074" y="179.264" width="48.95" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="44.2824" y="202.164">
+      <tspan x="44.2824" y="202.164">*</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="44.2824" y="198.264">
+    <tspan x="44.2824" y="198.264"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="73.7574" y1="207.35" x2="126.021" y2="207.35"/>
+    <polygon style="fill: #000000" points="133.521,207.35 123.521,212.35 126.021,207.35 123.521,202.35 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="133.521,207.35 123.521,212.35 126.021,207.35 123.521,202.35 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="81.7574" y="196.878">
+    <tspan x="81.7574" y="196.878">10 BTC</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="142.107" y="179.264" width="58.25" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="142.107" y="179.264" width="58.25" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="171.232" y="202.164">
+      <tspan x="171.232" y="202.164">Belén</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="19.2417" y="223.491" width="48.95" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="19.2417" y="223.491" width="48.95" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="43.7167" y="246.391">
+      <tspan x="43.7167" y="246.391">*</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="43.7167" y="242.491">
+    <tspan x="43.7167" y="242.491"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="73.1917" y1="251.577" x2="125.456" y2="251.577"/>
+    <polygon style="fill: #000000" points="132.956,251.577 122.956,256.577 125.456,251.577 122.956,246.577 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="132.956,251.577 122.956,256.577 125.456,251.577 122.956,246.577 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="81.1917" y="241.105">
+    <tspan x="81.1917" y="241.105">10 BTC</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="141.367" y="223.491" width="58.6" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="141.367" y="223.491" width="58.6" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170.667" y="246.391">
+      <tspan x="170.667" y="246.391">Cesar</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="19.2417" y="270.025" width="48.95" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="19.2417" y="270.025" width="48.95" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="43.7167" y="292.925">
+      <tspan x="43.7167" y="292.925">*</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="43.7167" y="289.025">
+    <tspan x="43.7167" y="289.025"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="73.1917" y1="298.111" x2="125.456" y2="298.111"/>
+    <polygon style="fill: #000000" points="132.956,298.111 122.956,303.111 125.456,298.111 122.956,293.111 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="132.956,298.111 122.956,303.111 125.456,298.111 122.956,293.111 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="81.1917" y="287.639">
+    <tspan x="81.1917" y="287.639">60 BTC</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="141.367" y="270.025" width="58.6" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="141.367" y="270.025" width="58.6" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170.667" y="292.925">
+      <tspan x="170.667" y="292.925">Cesar</tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="579.59796"
+   height="552.59229"
+   viewBox="137 332 316.51844 300.02545"
+   id="svg5522"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="proof-of-work_v2.svg">
+  <metadata
+     id="metadata6186">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6184" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1308"
+     inkscape:window-height="751"
+     id="namedview6182"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.89707532"
+     inkscape:cx="75.68212"
+     inkscape:cy="267.39692"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5522"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g5524"
+     transform="matrix(0.82498224,0,0,0.74511269,24.252146,83.606667)">
+    <rect
+       style="fill:#ffffff"
+       x="137.16701"
+       y="332.56699"
+       width="382.66699"
+       height="404"
+       id="rect5526" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#ffffff"
+       x="137.16701"
+       y="332.56699"
+       width="382.66699"
+       height="404"
+       id="rect5528" />
+    <text
+       font-size="5.64444"
+       style="font-style:normal;font-weight:normal;font-size:5.64444017px;font-family:sans-serif;text-anchor:start;fill:#0000ff"
+       x="143.16701"
+       y="536.289"
+       id="text5530">
+      <tspan
+         x="143.16701"
+         y="536.289"
+         id="tspan5532" />
+    </text>
+  </g>
+  <g
+     id="g5534"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="147.60001"
+       y="344.233"
+       width="56.902"
+       height="125.667"
+       id="rect5536" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="147.60001"
+       y="344.233"
+       width="56.902"
+       height="125.667"
+       id="rect5538" />
+    <text
+       font-size="5.64444"
+       style="font-style:normal;font-weight:normal;font-size:5.64444017px;font-family:sans-serif;text-anchor:start;fill:#0000ff"
+       x="152.60001"
+       y="408.789"
+       id="text5540">
+      <tspan
+         x="152.60001"
+         y="408.789"
+         id="tspan5542" />
+    </text>
+  </g>
+  <g
+     id="g5544"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="157.765"
+       y="363.203"
+       width="34.736599"
+       height="21.2889"
+       id="rect5546" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="157.765"
+       y="363.203"
+       width="34.736599"
+       height="21.2889"
+       id="rect5548" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="160.765"
+       y="376.603"
+       id="text5550">
+      <tspan
+         x="160.765"
+         y="376.603"
+         id="tspan5552">T0</tspan>
+    </text>
+  </g>
+  <text
+     font-size="10.16"
+     style="font-style:normal;font-weight:normal;font-size:8.3807354px;font-family:sans-serif;text-anchor:start;fill:#000000"
+     x="150.2457"
+     y="347.5264"
+     id="text5554">
+    <tspan
+       x="150.2457"
+       y="347.5264"
+       id="tspan5556">Bloque 0</tspan>
+  </text>
+  <g
+     id="g5558"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="157.302"
+       y="389.017"
+       width="34.736599"
+       height="21.2889"
+       id="rect5560" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="157.302"
+       y="389.017"
+       width="34.736599"
+       height="21.2889"
+       id="rect5562" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="160.302"
+       y="402.41699"
+       id="text5564">
+      <tspan
+         x="160.302"
+         y="402.41699"
+         id="tspan5566">T1</tspan>
+    </text>
+  </g>
+  <g
+     id="g5568"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="157.302"
+       y="414.517"
+       width="34.736599"
+       height="21.2889"
+       id="rect5570" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="157.302"
+       y="414.517"
+       width="34.736599"
+       height="21.2889"
+       id="rect5572" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="160.302"
+       y="427.91699"
+       id="text5574">
+      <tspan
+         x="160.302"
+         y="427.91699"
+         id="tspan5576">T2</tspan>
+    </text>
+  </g>
+  <g
+     id="g5578"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="151.965"
+       y="489.35001"
+       width="49.411098"
+       height="21.2889"
+       id="rect5580" />
+    <path
+       style="fill:#ffffff"
+       d="m 151.965,489.35 a 10.6444,10.6444 0 0 0 -10.645,10.644 l 10.645,0 z"
+       id="path5582"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff"
+       d="M 212.02,499.994 A 10.6444,10.6444 0 0 0 201.376,489.35 l 0,10.644 z"
+       id="path5584"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff"
+       x="141.32001"
+       y="499.99399"
+       width="70.699997"
+       height="0"
+       id="rect5586" />
+    <path
+       style="fill:#ffffff"
+       d="m 141.32,499.994 a 10.6444,10.6444 0 0 0 10.645,10.645 l 0,-10.645 z"
+       id="path5588"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff"
+       d="m 201.376,510.639 a 10.6444,10.6444 0 0 0 10.644,-10.645 l -10.644,0 z"
+       id="path5590"
+       inkscape:connector-curvature="0" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="151.965"
+       y1="489.35001"
+       x2="201.37601"
+       y2="489.35001"
+       id="line5592" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="151.965"
+       y1="510.63901"
+       x2="201.37601"
+       y2="510.63901"
+       id="line5594" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="M 151.965,489.35 A 10.6444,10.6444 0 0 0 141.32,499.994"
+       id="path5596"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="M 212.02,499.994 A 10.6444,10.6444 0 0 0 201.376,489.35"
+       id="path5598"
+       inkscape:connector-curvature="0" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="141.32001"
+       y1="499.99399"
+       x2="141.32001"
+       y2="499.99399"
+       id="line5600" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="212.02"
+       y1="499.99399"
+       x2="212.02"
+       y2="499.99399"
+       id="line5602" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="m 141.32,499.994 a 10.6444,10.6444 0 0 0 10.645,10.645"
+       id="path5604"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="M 201.376,510.639 A 10.6444,10.6444 0 0 0 212.02,499.994"
+       id="path5606"
+       inkscape:connector-curvature="0" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="144.32001"
+       y="502.75"
+       id="text5608">
+      <tspan
+         x="144.32001"
+         y="502.75"
+         id="tspan5610">Función Hash</tspan>
+    </text>
+  </g>
+  <g
+     id="g5612"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="176.53101"
+       y1="470.888"
+       x2="176.597"
+       y2="479.61401"
+       id="line5614" />
+    <polygon
+       style="fill:#000000"
+       points="176.597,479.614 181.578,477.077 176.653,487.114 171.578,477.152 "
+       id="polygon5616" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="176.597,479.614 181.578,477.077 176.653,487.114 171.578,477.152 "
+       id="polygon5618" />
+  </g>
+  <g
+     id="g5620"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="152.845"
+       y="530.34998"
+       width="47.650002"
+       height="21.2889"
+       id="rect5622" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="152.845"
+       y="530.34998"
+       width="47.650002"
+       height="21.2889"
+       id="rect5624" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="155.845"
+       y="543.75"
+       id="text5626">
+      <tspan
+         x="155.845"
+         y="543.75"
+         id="tspan5628">Hash B0</tspan>
+    </text>
+  </g>
+  <g
+     id="g5630"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="176.67"
+       y1="510.63901"
+       x2="176.67"
+       y2="520.61401"
+       id="line5632" />
+    <polygon
+       style="fill:#000000"
+       points="176.67,520.614 181.67,518.114 176.67,528.114 171.67,518.114 "
+       id="polygon5634" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="176.67,520.614 181.67,518.114 176.67,528.114 171.67,518.114 "
+       id="polygon5636" />
+  </g>
+  <g
+     id="g5638"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="247.446"
+       y="530.79999"
+       width="49.411098"
+       height="21.2889"
+       id="rect5640" />
+    <path
+       style="fill:#ffffff"
+       d="m 247.446,530.8 a 10.6444,10.6444 0 0 0 -10.644,10.644 l 10.644,0 z"
+       id="path5642"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff"
+       d="M 307.502,541.444 A 10.6444,10.6444 0 0 0 296.858,530.8 l 0,10.644 z"
+       id="path5644"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff"
+       x="236.802"
+       y="541.44397"
+       width="70.699997"
+       height="0"
+       id="rect5646" />
+    <path
+       style="fill:#ffffff"
+       d="m 236.802,541.444 a 10.6444,10.6444 0 0 0 10.644,10.645 l 0,-10.645 z"
+       id="path5648"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff"
+       d="m 296.858,552.089 a 10.6444,10.6444 0 0 0 10.644,-10.645 l -10.644,0 z"
+       id="path5650"
+       inkscape:connector-curvature="0" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="247.446"
+       y1="530.79999"
+       x2="296.858"
+       y2="530.79999"
+       id="line5652" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="247.446"
+       y1="552.08899"
+       x2="296.858"
+       y2="552.08899"
+       id="line5654" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="m 247.446,530.8 a 10.6444,10.6444 0 0 0 -10.644,10.644"
+       id="path5656"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="M 307.502,541.444 A 10.6444,10.6444 0 0 0 296.858,530.8"
+       id="path5658"
+       inkscape:connector-curvature="0" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="236.802"
+       y1="541.44397"
+       x2="236.802"
+       y2="541.44397"
+       id="line5660" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="307.50201"
+       y1="541.44397"
+       x2="307.50201"
+       y2="541.44397"
+       id="line5662" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="m 236.802,541.444 a 10.6444,10.6444 0 0 0 10.644,10.645"
+       id="path5664"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="m 296.858,552.089 a 10.6444,10.6444 0 0 0 10.644,-10.645"
+       id="path5666"
+       inkscape:connector-curvature="0" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="239.802"
+       y="544.20001"
+       id="text5668">
+      <tspan
+         x="239.802"
+         y="544.20001"
+         id="tspan5670">Función Hash</tspan>
+    </text>
+  </g>
+  <g
+     id="g5672"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="272.151"
+       y1="511.43301"
+       x2="272.151"
+       y2="521.06403"
+       id="line5674" />
+    <polygon
+       style="fill:#000000"
+       points="272.151,521.064 277.151,518.564 272.152,528.564 267.151,518.564 "
+       id="polygon5676" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="272.151,521.064 277.151,518.564 272.152,528.564 267.151,518.564 "
+       id="polygon5678" />
+  </g>
+  <g
+     id="g5680"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="248.328"
+       y="571.79999"
+       width="47.650002"
+       height="21.2889"
+       id="rect5682" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="248.328"
+       y="571.79999"
+       width="47.650002"
+       height="21.2889"
+       id="rect5684" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="251.328"
+       y="585.20001"
+       id="text5686">
+      <tspan
+         x="251.328"
+         y="585.20001"
+         id="tspan5688">Hash B1</tspan>
+    </text>
+  </g>
+  <g
+     id="g5690"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="272.15201"
+       y1="552.08899"
+       x2="272.15302"
+       y2="562.06403"
+       id="line5692" />
+    <polygon
+       style="fill:#000000"
+       points="272.153,562.064 277.152,559.564 272.153,569.564 267.152,559.564 "
+       id="polygon5694" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="272.153,562.064 277.152,559.564 272.153,569.564 267.152,559.564 "
+       id="polygon5696" />
+  </g>
+  <g
+     id="g5698"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="200.495"
+       y1="540.99402"
+       x2="227.067"
+       y2="541.32397"
+       id="line5700" />
+    <polygon
+       style="fill:#000000"
+       points="227.067,541.324 224.629,536.293 234.566,541.417 224.505,546.292 "
+       id="polygon5702" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="227.067,541.324 224.629,536.293 234.566,541.417 224.505,546.292 "
+       id="polygon5704" />
+  </g>
+  <g
+     id="g5706"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="341.44601"
+       y="571.79999"
+       width="49.411098"
+       height="21.2889"
+       id="rect5708" />
+    <path
+       style="fill:#ffffff"
+       d="m 341.446,571.8 a 10.6444,10.6444 0 0 0 -10.644,10.644 l 10.644,0 z"
+       id="path5710"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff"
+       d="M 401.502,582.444 A 10.6444,10.6444 0 0 0 390.858,571.8 l 0,10.644 z"
+       id="path5712"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff"
+       x="330.802"
+       y="582.44397"
+       width="70.699997"
+       height="0"
+       id="rect5714" />
+    <path
+       style="fill:#ffffff"
+       d="m 330.802,582.444 a 10.6444,10.6444 0 0 0 10.644,10.645 l 0,-10.645 z"
+       id="path5716"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff"
+       d="m 390.858,593.089 a 10.6444,10.6444 0 0 0 10.644,-10.645 l -10.644,0 z"
+       id="path5718"
+       inkscape:connector-curvature="0" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="341.44601"
+       y1="571.79999"
+       x2="390.858"
+       y2="571.79999"
+       id="line5720" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="341.44601"
+       y1="593.08899"
+       x2="390.858"
+       y2="593.08899"
+       id="line5722" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="m 341.446,571.8 a 10.6444,10.6444 0 0 0 -10.644,10.644"
+       id="path5724"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="M 401.502,582.444 A 10.6444,10.6444 0 0 0 390.858,571.8"
+       id="path5726"
+       inkscape:connector-curvature="0" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="330.802"
+       y1="582.44397"
+       x2="330.802"
+       y2="582.44397"
+       id="line5728" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="401.50201"
+       y1="582.44397"
+       x2="401.50201"
+       y2="582.44397"
+       id="line5730" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="m 330.802,582.444 a 10.6444,10.6444 0 0 0 10.644,10.645"
+       id="path5732"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="m 390.858,593.089 a 10.6444,10.6444 0 0 0 10.644,-10.645"
+       id="path5734"
+       inkscape:connector-curvature="0" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="333.802"
+       y="585.20001"
+       id="text5736">
+      <tspan
+         x="333.802"
+         y="585.20001"
+         id="tspan5738">Función Hash</tspan>
+    </text>
+  </g>
+  <g
+     id="g5740"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="366.35101"
+       y1="550.633"
+       x2="366.24399"
+       y2="562.06403"
+       id="line5742" />
+    <polygon
+       style="fill:#000000"
+       points="366.244,562.064 371.267,559.611 366.173,569.564 361.267,559.517 "
+       id="polygon5744" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="366.244,562.064 371.267,559.611 366.173,569.564 361.267,559.517 "
+       id="polygon5746" />
+  </g>
+  <g
+     id="g5748"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="342.328"
+       y="612.79999"
+       width="47.650002"
+       height="21.2889"
+       id="rect5750" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="342.328"
+       y="612.79999"
+       width="47.650002"
+       height="21.2889"
+       id="rect5752" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="345.328"
+       y="626.20001"
+       id="text5754">
+      <tspan
+         x="345.328"
+         y="626.20001"
+         id="tspan5756">Hash B2</tspan>
+    </text>
+  </g>
+  <g
+     id="g5758"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="366.15201"
+       y1="593.08899"
+       x2="366.15302"
+       y2="603.06403"
+       id="line5760" />
+    <polygon
+       style="fill:#000000"
+       points="366.153,603.064 371.152,600.564 366.153,610.564 361.152,600.564 "
+       id="polygon5762" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="366.153,603.064 371.152,600.564 366.153,610.564 361.152,600.564 "
+       id="polygon5764" />
+  </g>
+  <g
+     id="g5766"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="436.92801"
+       y="613.25"
+       width="49.411098"
+       height="21.2889"
+       id="rect5768" />
+    <path
+       style="fill:#ffffff"
+       d="m 436.928,613.25 a 10.6444,10.6444 0 0 0 -10.644,10.644 l 10.644,0 z"
+       id="path5770"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff"
+       d="M 496.984,623.894 A 10.6444,10.6444 0 0 0 486.34,613.25 l 0,10.644 z"
+       id="path5772"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff"
+       x="426.284"
+       y="623.89398"
+       width="70.699997"
+       height="0"
+       id="rect5774" />
+    <path
+       style="fill:#ffffff"
+       d="m 426.284,623.894 a 10.6444,10.6444 0 0 0 10.644,10.645 l 0,-10.645 z"
+       id="path5776"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff"
+       d="m 486.34,634.539 a 10.6444,10.6444 0 0 0 10.644,-10.645 l -10.644,0 z"
+       id="path5778"
+       inkscape:connector-curvature="0" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="436.92801"
+       y1="613.25"
+       x2="486.34"
+       y2="613.25"
+       id="line5780" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="436.92801"
+       y1="634.539"
+       x2="486.34"
+       y2="634.539"
+       id="line5782" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="m 436.928,613.25 a 10.6444,10.6444 0 0 0 -10.644,10.644"
+       id="path5784"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="M 496.984,623.894 A 10.6444,10.6444 0 0 0 486.34,613.25"
+       id="path5786"
+       inkscape:connector-curvature="0" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="426.284"
+       y1="623.89398"
+       x2="426.284"
+       y2="623.89398"
+       id="line5788" />
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="496.98401"
+       y1="623.89398"
+       x2="496.98401"
+       y2="623.89398"
+       id="line5790" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="m 426.284,623.894 a 10.6444,10.6444 0 0 0 10.644,10.645"
+       id="path5792"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       d="m 486.34,634.539 a 10.6444,10.6444 0 0 0 10.644,-10.645"
+       id="path5794"
+       inkscape:connector-curvature="0" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="429.284"
+       y="626.65002"
+       id="text5796">
+      <tspan
+         x="429.284"
+         y="626.65002"
+         id="tspan5798">Función Hash</tspan>
+    </text>
+  </g>
+  <g
+     id="g5800"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="462.151"
+       y1="591.43298"
+       x2="461.86499"
+       y2="603.51703"
+       id="line5802" />
+    <polygon
+       style="fill:#000000"
+       points="461.865,603.517 466.922,601.136 461.687,611.015 456.925,600.899 "
+       id="polygon5804" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="461.865,603.517 466.922,601.136 461.687,611.015 456.925,600.899 "
+       id="polygon5806" />
+  </g>
+  <g
+     id="g5808"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="437.80801"
+       y="654.25"
+       width="47.650002"
+       height="21.2889"
+       id="rect5810" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="437.80801"
+       y="654.25"
+       width="47.650002"
+       height="21.2889"
+       id="rect5812" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="440.80801"
+       y="667.65002"
+       id="text5814">
+      <tspan
+         x="440.80801"
+         y="667.65002"
+         id="tspan5816">Hash B3</tspan>
+    </text>
+  </g>
+  <g
+     id="g5818"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="461.634"
+       y1="634.539"
+       x2="461.633"
+       y2="644.51398"
+       id="line5820" />
+    <polygon
+       style="fill:#000000"
+       points="461.633,644.514 466.634,642.014 461.633,652.014 456.634,642.014 "
+       id="polygon5822" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="461.633,644.514 466.634,642.014 461.633,652.014 456.634,642.014 "
+       id="polygon5824" />
+  </g>
+  <g
+     id="g5826"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="389.978"
+       y1="623.44397"
+       x2="416.54901"
+       y2="623.77399"
+       id="line5828" />
+    <polygon
+       style="fill:#000000"
+       points="416.549,623.774 414.111,618.743 424.048,623.867 413.987,628.742 "
+       id="polygon5830" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="416.549,623.774 414.111,618.743 424.048,623.867 413.987,628.742 "
+       id="polygon5832" />
+  </g>
+  <g
+     id="g5834"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="295.978"
+       y1="582.44397"
+       x2="321.06601"
+       y2="582.44397"
+       id="line5836" />
+    <polygon
+       style="fill:#000000"
+       points="321.066,582.444 318.566,577.444 328.566,582.444 318.566,587.444 "
+       id="polygon5838" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="321.066,582.444 318.566,577.444 328.566,582.444 318.566,587.444 "
+       id="polygon5840" />
+  </g>
+  <g
+     id="g5842"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="485.45801"
+       y1="664.89398"
+       x2="511.431"
+       y2="664.65601"
+       id="line5844" />
+    <polygon
+       style="fill:#000000"
+       points="511.431,664.656 508.885,659.679 518.931,664.587 508.977,669.679 "
+       id="polygon5846" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="511.431,664.656 508.885,659.679 518.931,664.587 508.977,669.679 "
+       id="polygon5848" />
+  </g>
+  <g
+     id="g5850"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="155.10201"
+       y="442.43301"
+       width="38.599998"
+       height="21.2889"
+       id="rect5852" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="155.10201"
+       y="442.43301"
+       width="38.599998"
+       height="21.2889"
+       id="rect5854" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="158.10201"
+       y="455.83301"
+       id="text5856">
+      <tspan
+         x="158.10201"
+         y="455.83301"
+         id="tspan5858">Nonce</tspan>
+    </text>
+  </g>
+  <g
+     id="g5860"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="243.7"
+       y="385.767"
+       width="56.902"
+       height="125.667"
+       id="rect5862" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="243.7"
+       y="385.767"
+       width="56.902"
+       height="125.667"
+       id="rect5864" />
+    <text
+       font-size="5.64444"
+       style="font-style:normal;font-weight:normal;font-size:5.64444017px;font-family:sans-serif;text-anchor:start;fill:#0000ff"
+       x="248.7"
+       y="450.32199"
+       id="text5866">
+      <tspan
+         x="248.7"
+         y="450.32199"
+         id="tspan5868" />
+    </text>
+  </g>
+  <g
+     id="g5870"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="253.86501"
+       y="404.73599"
+       width="34.736599"
+       height="21.2889"
+       id="rect5872" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="253.86501"
+       y="404.73599"
+       width="34.736599"
+       height="21.2889"
+       id="rect5874" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="256.86499"
+       y="418.13599"
+       id="text5876">
+      <tspan
+         x="256.86499"
+         y="418.13599"
+         id="tspan5878">T3</tspan>
+    </text>
+  </g>
+  <text
+     font-size="10.16"
+     style="font-style:normal;font-weight:normal;font-size:8.3807354px;font-family:sans-serif;text-anchor:start;fill:#000000"
+     x="229.51625"
+     y="381.78598"
+     id="text5880">
+    <tspan
+       x="229.51625"
+       y="381.78598"
+       id="tspan5882">Bloque 1</tspan>
+  </text>
+  <g
+     id="g5884"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="253.40199"
+       y="430.54999"
+       width="34.736599"
+       height="21.2889"
+       id="rect5886" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="253.40199"
+       y="430.54999"
+       width="34.736599"
+       height="21.2889"
+       id="rect5888" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="256.40201"
+       y="443.95001"
+       id="text5890">
+      <tspan
+         x="256.40201"
+         y="443.95001"
+         id="tspan5892">T4</tspan>
+    </text>
+  </g>
+  <g
+     id="g5894"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="253.40199"
+       y="456.04999"
+       width="34.736599"
+       height="21.2889"
+       id="rect5896" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="253.40199"
+       y="456.04999"
+       width="34.736599"
+       height="21.2889"
+       id="rect5898" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="256.40201"
+       y="469.45001"
+       id="text5900">
+      <tspan
+         x="256.40201"
+         y="469.45001"
+         id="tspan5902">T5</tspan>
+    </text>
+  </g>
+  <g
+     id="g5904"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="251.202"
+       y="483.96701"
+       width="38.599998"
+       height="21.2889"
+       id="rect5906" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="251.202"
+       y="483.96701"
+       width="38.599998"
+       height="21.2889"
+       id="rect5908" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="254.202"
+       y="497.367"
+       id="text5910">
+      <tspan
+         x="254.202"
+         y="497.367"
+         id="tspan5912">Nonce</tspan>
+    </text>
+  </g>
+  <g
+     id="g5914"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="337.89999"
+       y="424.96701"
+       width="56.902"
+       height="125.667"
+       id="rect5916" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="337.89999"
+       y="424.96701"
+       width="56.902"
+       height="125.667"
+       id="rect5918" />
+    <text
+       font-size="5.64444"
+       style="font-style:normal;font-weight:normal;font-size:5.64444017px;font-family:sans-serif;text-anchor:start;fill:#0000ff"
+       x="342.89999"
+       y="489.522"
+       id="text5920">
+      <tspan
+         x="342.89999"
+         y="489.522"
+         id="tspan5922" />
+    </text>
+  </g>
+  <g
+     id="g5924"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="348.065"
+       y="443.936"
+       width="34.736599"
+       height="21.2889"
+       id="rect5926" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="348.065"
+       y="443.936"
+       width="34.736599"
+       height="21.2889"
+       id="rect5928" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="351.065"
+       y="457.336"
+       id="text5930">
+      <tspan
+         x="351.065"
+         y="457.336"
+         id="tspan5932">T6</tspan>
+    </text>
+  </g>
+  <text
+     font-size="10.16"
+     style="font-style:normal;font-weight:normal;font-size:8.3807354px;font-family:sans-serif;text-anchor:start;fill:#000000"
+     x="307.21948"
+     y="414.12106"
+     id="text5934">
+    <tspan
+       x="307.21948"
+       y="414.12106"
+       id="tspan5936">Bloque 2</tspan>
+  </text>
+  <g
+     id="g5938"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="347.60199"
+       y="469.75"
+       width="34.736599"
+       height="21.2889"
+       id="rect5940" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="347.60199"
+       y="469.75"
+       width="34.736599"
+       height="21.2889"
+       id="rect5942" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="350.60199"
+       y="483.14999"
+       id="text5944">
+      <tspan
+         x="350.60199"
+         y="483.14999"
+         id="tspan5946">T7</tspan>
+    </text>
+  </g>
+  <g
+     id="g5948"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="347.60199"
+       y="495.25"
+       width="34.736599"
+       height="21.2889"
+       id="rect5950" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="347.60199"
+       y="495.25"
+       width="34.736599"
+       height="21.2889"
+       id="rect5952" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="350.60199"
+       y="508.64999"
+       id="text5954">
+      <tspan
+         x="350.60199"
+         y="508.64999"
+         id="tspan5956">T8</tspan>
+    </text>
+  </g>
+  <g
+     id="g5958"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="345.40201"
+       y="523.16699"
+       width="38.599998"
+       height="21.2889"
+       id="rect5960" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="345.40201"
+       y="523.16699"
+       width="38.599998"
+       height="21.2889"
+       id="rect5962" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="348.40201"
+       y="536.56702"
+       id="text5964">
+      <tspan
+         x="348.40201"
+         y="536.56702"
+         id="tspan5966">Nonce</tspan>
+    </text>
+  </g>
+  <g
+     id="g5968"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="433.70001"
+       y="465.767"
+       width="56.902"
+       height="125.667"
+       id="rect5970" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="433.70001"
+       y="465.767"
+       width="56.902"
+       height="125.667"
+       id="rect5972" />
+    <text
+       font-size="5.64444"
+       style="font-style:normal;font-weight:normal;font-size:5.64444017px;font-family:sans-serif;text-anchor:start;fill:#0000ff"
+       x="438.70001"
+       y="530.32202"
+       id="text5974">
+      <tspan
+         x="438.70001"
+         y="530.32202"
+         id="tspan5976" />
+    </text>
+  </g>
+  <g
+     id="g5978"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="443.86499"
+       y="484.73599"
+       width="34.736599"
+       height="21.2889"
+       id="rect5980" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="443.86499"
+       y="484.73599"
+       width="34.736599"
+       height="21.2889"
+       id="rect5982" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="446.86499"
+       y="498.13599"
+       id="text5984">
+      <tspan
+         x="446.86499"
+         y="498.13599"
+         id="tspan5986">T9</tspan>
+    </text>
+  </g>
+  <text
+     font-size="10.16"
+     style="font-style:normal;font-weight:normal;font-size:8.3807354px;font-family:sans-serif;text-anchor:start;fill:#000000"
+     x="386.24255"
+     y="447.776"
+     id="text5988">
+    <tspan
+       x="386.24255"
+       y="447.776"
+       id="tspan5990">Bloque 3</tspan>
+  </text>
+  <g
+     id="g5992"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="443.40201"
+       y="510.54999"
+       width="34.736599"
+       height="21.2889"
+       id="rect5994" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="443.40201"
+       y="510.54999"
+       width="34.736599"
+       height="21.2889"
+       id="rect5996" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="446.40201"
+       y="523.95001"
+       id="text5998">
+      <tspan
+         x="446.40201"
+         y="523.95001"
+         id="tspan6000">T10</tspan>
+    </text>
+  </g>
+  <g
+     id="g6002"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="443.40201"
+       y="536.04999"
+       width="34.736599"
+       height="21.2889"
+       id="rect6004" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="443.40201"
+       y="536.04999"
+       width="34.736599"
+       height="21.2889"
+       id="rect6006" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="446.40201"
+       y="549.45001"
+       id="text6008">
+      <tspan
+         x="446.40201"
+         y="549.45001"
+         id="tspan6010">T11</tspan>
+    </text>
+  </g>
+  <g
+     id="g6012"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <rect
+       style="fill:#ffffff"
+       x="441.202"
+       y="563.96698"
+       width="38.599998"
+       height="21.2889"
+       id="rect6014" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x="441.202"
+       y="563.96698"
+       width="38.599998"
+       height="21.2889"
+       id="rect6016" />
+    <text
+       font-size="9.03111"
+       style="font-style:normal;font-weight:normal;font-size:9.03110981px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="444.202"
+       y="577.367"
+       id="text6018">
+      <tspan
+         x="444.202"
+         y="577.367"
+         id="tspan6020">Nonce</tspan>
+    </text>
+  </g>
+  <text
+     font-size="12.7998"
+     style="font-style:normal;font-weight:normal;font-size:10.55824184px;font-family:sans-serif;text-anchor:start;fill:#000000"
+     x="142.40199"
+     y="629.66113"
+     id="text6022">
+    <tspan
+       x="142.40199"
+       y="629.66113"
+       id="tspan6024">Hash B525459: 0x0000000000000000000d913d7a654...</tspan>
+  </text>
+  <text
+     font-size="12.7998"
+     style="font-style:normal;font-weight:normal;font-size:10.55824184px;font-family:sans-serif;text-anchor:start;fill:#000000"
+     x="142.95219"
+     y="609.3139"
+     id="text6026">
+    <tspan
+       x="142.95219"
+       y="609.3139"
+       id="tspan6028">Hash B0:</tspan>
+  </text>
+  <text
+     font-size="12.7998"
+     style="font-style:normal;font-weight:normal;font-size:10.55824184px;font-family:sans-serif;text-anchor:start;fill:#000000"
+     x="142.40199"
+     y="619.21246"
+     id="text6030">
+    <tspan
+       x="142.40199"
+       y="619.21246"
+       id="tspan6032">Hash B265459: 0x000000000000000b89e7b535...</tspan>
+  </text>
+  <g
+     id="g6034"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <g
+       id="g6036">
+      <circle
+         style="fill:#ffffff"
+         cx="224"
+         cy="443.55099"
+         id="ellipse6038"
+         r="12.8333" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         cx="224"
+         cy="443.55099"
+         id="ellipse6040"
+         r="12.8333" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         cx="224"
+         cy="443.55099"
+         id="ellipse6042"
+         r="12.8333" />
+      <circle
+         style="fill:#ffffff"
+         cx="224"
+         cy="443.55099"
+         id="ellipse6044"
+         r="7.3333302" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         cx="224"
+         cy="443.55099"
+         id="ellipse6046"
+         r="7.3333302" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         cx="224"
+         cy="443.55099"
+         id="ellipse6048"
+         r="7.3333302" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="224"
+         y1="436.21799"
+         x2="224"
+         y2="438.05099"
+         id="line6050" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="224"
+         y1="449.05099"
+         x2="224"
+         y2="450.884"
+         id="line6052" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="216.66701"
+         y1="443.55099"
+         x2="218.5"
+         y2="443.55099"
+         id="line6054" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="229.5"
+         y1="443.55099"
+         x2="231.33299"
+         y2="443.55099"
+         id="line6056" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="221.25"
+         y1="448.134"
+         x2="220.196"
+         y2="449.82999"
+         id="line6058" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="219.41701"
+         y1="446.30099"
+         x2="217.72099"
+         y2="447.35501"
+         id="line6060" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="219.41701"
+         y1="440.80099"
+         x2="217.744"
+         y2="439.724"
+         id="line6062" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="221.25"
+         y1="438.96799"
+         x2="220.21899"
+         y2="437.29501"
+         id="line6064" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="226.75"
+         y1="438.96799"
+         x2="227.78999"
+         y2="437.24899"
+         id="line6066" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="228.58299"
+         y1="440.80099"
+         x2="230.311"
+         y2="439.76999"
+         id="line6068" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="228.58299"
+         y1="446.30099"
+         x2="230.311"
+         y2="447.35001"
+         id="line6070" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="226.75"
+         y1="448.134"
+         x2="227.78999"
+         y2="449.871"
+         id="line6072" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="224"
+         y1="443.55099"
+         x2="227.66701"
+         y2="443.55099"
+         id="line6074" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="224"
+         y1="443.55099"
+         x2="225.132"
+         y2="437.81"
+         id="line6076" />
+    </g>
+    <text
+       font-size="9.03097"
+       style="font-style:normal;font-weight:normal;font-size:9.03096962px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="207.83299"
+       y="467.384"
+       id="text6078">
+      <tspan
+         x="207.83299"
+         y="467.384"
+         id="tspan6080">10 min.</tspan>
+    </text>
+  </g>
+  <g
+     id="g6082"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <g
+       id="g6084">
+      <circle
+         style="fill:#ffffff"
+         cx="318.93301"
+         cy="486.418"
+         id="ellipse6086"
+         r="12.8333" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         cx="318.93301"
+         cy="486.418"
+         id="ellipse6088"
+         r="12.8333" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         cx="318.93301"
+         cy="486.418"
+         id="ellipse6090"
+         r="12.8333" />
+      <circle
+         style="fill:#ffffff"
+         cx="318.93301"
+         cy="486.418"
+         id="ellipse6092"
+         r="7.3333302" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         cx="318.93301"
+         cy="486.418"
+         id="ellipse6094"
+         r="7.3333302" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         cx="318.93301"
+         cy="486.418"
+         id="ellipse6096"
+         r="7.3333302" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="318.93301"
+         y1="479.08401"
+         x2="318.93301"
+         y2="480.918"
+         id="line6098" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="318.93301"
+         y1="491.918"
+         x2="318.93301"
+         y2="493.75101"
+         id="line6100" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="311.60001"
+         y1="486.418"
+         x2="313.43301"
+         y2="486.418"
+         id="line6102" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="324.43301"
+         y1="486.418"
+         x2="326.267"
+         y2="486.418"
+         id="line6104" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="316.18301"
+         y1="491.00101"
+         x2="315.129"
+         y2="492.69699"
+         id="line6106" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="314.35001"
+         y1="489.168"
+         x2="312.65399"
+         y2="490.22198"
+         id="line6108" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="314.35001"
+         y1="483.668"
+         x2="312.677"
+         y2="482.59"
+         id="line6110" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="316.18301"
+         y1="481.83401"
+         x2="315.15201"
+         y2="480.16101"
+         id="line6112" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="321.68301"
+         y1="481.83401"
+         x2="322.72299"
+         y2="480.11499"
+         id="line6114" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="323.517"
+         y1="483.668"
+         x2="325.24399"
+         y2="482.63599"
+         id="line6116" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="323.517"
+         y1="489.168"
+         x2="325.24399"
+         y2="490.21701"
+         id="line6118" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="321.68301"
+         y1="491.00101"
+         x2="322.72299"
+         y2="492.73801"
+         id="line6120" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="318.93301"
+         y1="486.418"
+         x2="322.60001"
+         y2="486.418"
+         id="line6122" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="318.93301"
+         y1="486.418"
+         x2="320.065"
+         y2="480.677"
+         id="line6124" />
+    </g>
+    <text
+       font-size="9.03097"
+       style="font-style:normal;font-weight:normal;font-size:9.03096962px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="302.767"
+       y="510.25101"
+       id="text6126">
+      <tspan
+         x="302.767"
+         y="510.25101"
+         id="tspan6128">10 min.</tspan>
+    </text>
+  </g>
+  <g
+     id="g6130"
+     transform="matrix(0.82487551,0,0,0.82487551,24.287208,51.621328)">
+    <g
+       id="g6132">
+      <circle
+         style="fill:#ffffff"
+         cx="412.53299"
+         cy="524.95099"
+         id="ellipse6134"
+         r="12.8333" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         cx="412.53299"
+         cy="524.95099"
+         id="ellipse6136"
+         r="12.8333" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         cx="412.53299"
+         cy="524.95099"
+         id="ellipse6138"
+         r="12.8333" />
+      <circle
+         style="fill:#ffffff"
+         cx="412.53299"
+         cy="524.95099"
+         id="ellipse6140"
+         r="7.3333302" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         cx="412.53299"
+         cy="524.95099"
+         id="ellipse6142"
+         r="7.3333302" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         cx="412.53299"
+         cy="524.95099"
+         id="ellipse6144"
+         r="7.3333302" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="412.53299"
+         y1="517.61798"
+         x2="412.53299"
+         y2="519.45099"
+         id="line6146" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="412.53299"
+         y1="530.45099"
+         x2="412.53299"
+         y2="532.284"
+         id="line6148" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="405.20001"
+         y1="524.95099"
+         x2="407.03299"
+         y2="524.95099"
+         id="line6150" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="418.03299"
+         y1="524.95099"
+         x2="419.867"
+         y2="524.95099"
+         id="line6152" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="409.78299"
+         y1="529.534"
+         x2="408.729"
+         y2="531.22998"
+         id="line6154" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="407.95001"
+         y1="527.70099"
+         x2="406.254"
+         y2="528.755"
+         id="line6156" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="407.95001"
+         y1="522.20099"
+         x2="406.27701"
+         y2="521.12402"
+         id="line6158" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="409.78299"
+         y1="520.36798"
+         x2="408.75201"
+         y2="518.69501"
+         id="line6160" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="415.28299"
+         y1="520.36798"
+         x2="416.323"
+         y2="518.64899"
+         id="line6162" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="417.117"
+         y1="522.20099"
+         x2="418.84399"
+         y2="521.16998"
+         id="line6164" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="417.117"
+         y1="527.70099"
+         x2="418.84399"
+         y2="528.75"
+         id="line6166" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="415.28299"
+         y1="529.534"
+         x2="416.323"
+         y2="531.271"
+         id="line6168" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="412.53299"
+         y1="524.95099"
+         x2="416.20001"
+         y2="524.95099"
+         id="line6170" />
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2"
+         x1="412.53299"
+         y1="524.95099"
+         x2="413.66501"
+         y2="519.21002"
+         id="line6172" />
+    </g>
+    <text
+       font-size="9.03097"
+       style="font-style:normal;font-weight:normal;font-size:9.03096962px;font-family:sans-serif;text-anchor:start;fill:#000000"
+       x="396.367"
+       y="548.784"
+       id="text6174">
+      <tspan
+         x="396.367"
+         y="548.784"
+         id="tspan6176">10 min.</tspan>
+    </text>
+  </g>
+  <text
+     font-size="12.7998"
+     style="font-style:normal;font-weight:normal;font-size:10.55824184px;font-family:sans-serif;text-anchor:start;fill:#000000"
+     x="227.8591"
+     y="609.39642"
+     id="text6178">
+    <tspan
+       x="227.8591"
+       y="609.39642"
+       id="tspan6180">0x000000000019d6689c0...</tspan>
+  </text>
+</svg>

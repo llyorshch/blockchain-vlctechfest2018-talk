@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Default Presentation</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <style>
+    @import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+    @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+    @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+    body {
+      font-family: 'Droid Serif';
+    }
+
+    h1,
+    h2,
+    h3 {
+      font-family: 'Yanone Kaffeesatz';
+      font-weight: 400;
+      margin-bottom: 0;
+    }
+
+    .remark-slide-content h1 {
+      font-size: 3em;
+    }
+
+    .remark-slide-content h2 {
+      font-size: 2em;
+    }
+
+    .remark-slide-content h3 {
+      font-size: 1.6em;
+    }
+
+    .footnote {
+      position: absolute;
+      bottom: 3em;
+    }
+
+    li p {
+      line-height: 1.25em;
+    }
+
+    .red {
+      color: #fa0000;
+    }
+
+    .large {
+      font-size: 2em;
+    }
+
+    a,
+    a>code {
+      color: rgb(249, 38, 114);
+      text-decoration: none;
+    }
+
+    code {
+      background: #e7e8e2;
+      border-radius: 5px;
+    }
+
+    .remark-code,
+    .remark-inline-code {
+      font-family: 'Ubuntu Mono';
+    }
+
+    .remark-code-line-highlighted {
+      background-color: #373832;
+    }
+
+    .pull-left {
+      float: left;
+      width: 47%;
+    }
+
+    .pull-right {
+      float: right;
+      width: 47%;
+    }
+
+    .pull-right~p {
+      clear: both;
+    }
+
+    #slideshow .slide .content code {
+      font-size: 0.8em;
+    }
+
+    #slideshow .slide .content pre code {
+      font-size: 0.9em;
+      padding: 15px;
+    }
+
+    .inverse {
+      background: #272822;
+      color: #ffffff;
+      text-shadow: 0 0 20px #333;
+    }
+
+    .inverse h1,
+    .inverse h2 {
+      color: #f3f3f3;
+      line-height: 1.0em;
+    }
+
+    /* Slide-specific styling */
+
+    #slide-inverse .footnote {
+      bottom: 12px;
+      left: 20px;
+    }
+
+    #slide-how .slides {
+      font-size: 0.9em;
+      position: absolute;
+      top: 151px;
+      right: 140px;
+    }
+
+    #slide-how .slides h3 {
+      margin-top: 0.2em;
+    }
+
+    #slide-how .slides .first,
+    #slide-how .slides .second {
+      padding: 1px 20px;
+      height: 90px;
+      width: 120px;
+      -moz-box-shadow: 0 0 10px #777;
+      -webkit-box-shadow: 0 0 10px #777;
+      box-shadow: 0 0 10px #777;
+    }
+
+    #slide-how .slides .first {
+      background: #fff;
+      position: absolute;
+      top: 20%;
+      left: 20%;
+      z-index: 1;
+    }
+
+    #slide-how .slides .second {
+      position: relative;
+      background: #fff;
+      z-index: 0;
+    }
+
+    /* Two-column layout */
+
+    .left-column {
+      color: #777;
+      width: 20%;
+      height: 92%;
+      float: left;
+    }
+
+    .left-column h2:last-of-type,
+    .left-column h3:last-child {
+      color: #000;
+    }
+
+    .right-column {
+      width: 75%;
+      float: right;
+      padding-top: 1em;
+    }
+
+    img[alt=architecture] { width: 700px; }
+  </style>
+</head>
+
+<body>
+    <textarea id="source">
+        # Deja de fingir que comprendes Blockchain
+
+.center[![Logo](images/blockchain_logo.svg)]
+
+---
+name: inverse
+layout: true
+class: center, middle, inverse
+
+---
+## Un servidor
+
+![Programming motherfuckers](images/programming-motherfuckers.jpg)
+
+Jorge Mora Giménez, trabajando para ![Logo Flowable](images/logo_hero.png)
+
+jorge@ge.org.es / jorge.mora@flowable.com / @llyorshch
+
+---
+name: inverse
+layout: true
+class: left, top, inverse
+
+---
+
+## Motivación
+
+--
+
+* ¿Qué es todo este revuelo? ¿Eres idiota por no estar invirtiendo tu dinero en BTC?
+
+--
+
+* A primera vista, gente codiciosa que consume mucha energía
+
+--
+
+* Te informas superficialmente y tienes un momento que crees que lo entiendes
+
+--
+
+### .center[Pero no]
+
+--
+
+* Así que te tienes que meter a fondo para ir al detalle
+
+--
+
+* ¡O atender a esta charla! ¡Bien hecho!
+
+---
+
+## Conceptillos básicos
+
+* Si entendemos Bitcoin, entenderemos lo fundamental de Blockchain
+
+--
+
+* Bitcoin es un sistema monetario basado en tecnología Blockchain y un montón de mates, de la misma manera que el Euro es un sistema monetario basado en tecnología mainframe y un montón de leyes.
+
+--
+
+* Satoshi Nakamoto, allá por el 2008, expone que el sistema de transacciones basado en confianza ~~da asco~~ tiene debilidades y es poco eficiente.
+.center[![visa outage](images/visa_outage.png)]
+--
+* Como alternativa, propone Bitcoin, donde la confianza se sustituye por garantías criptográficas/matemáticas.
+
+--
+
+* La innovación de Bitcoin es solucionar el problema del "doble gasto".
+
+---
+
+.center[![Registro contable básico](images/registro_contable.svg)]
+
+---
+
+.center[![Registro contable en un fichero digital](images/registro_contable_excel.png)]
+
+---
+
+## Problemas de un registro contable electrónico
+
+* ¿Cómo aseguramos que las transacciones sean incuestionables?
+* ¿Cómo nos ponemos de acuerdo para que la secuencia de operaciones sea inalterable?
+
+Para abordar estos problemas, lo primero que necesitamos es criptografía DE LA BUENA.
+
+---
+
+## Curso CCC de criptografía - Función Hash
+
+.center[![Función hash](images/Hash_function2-es_wb.svg)]
+
+---
+
+## Curso CC de criptografía - Criptografía asimétrica
+
+* Se basa en un par de claves: la clave privada y la clave pública
+
+.center[![Claves pública y privada](images/Public-key-crypto-1_wb.svg)]
+
+* Hay dos pares de operaciones básicas:
+  * Cifrar/Descifrar
+  * Firmar/Verificar
+
+---
+
+## Curso CC de criptografía - Firmar/Verificar un mensaje
+
+.center[![Firma y verificación de un mensaje](images/model_digital_signature.jpg)]
+
+---
+
+## Problemas de un registro contable electrónico (2)
+
+* ¿Cómo aseguramos que las transacciones sean incuestionables?
+* ¿Cómo nos ponemos de acuerdo para que la secuencia de operaciones sea inalterable?
+
+--
+
+.center[![Captura del Whitepaper de Satoshi](images/whitepaper.png)]
+
+---
+
+.center[![CADENA DE TRANSACCIONES](images/cadena_de_transacciones_v2.svg)]
+
+---
+
+## El doble gasto
+
+* ¿Cómo nos aseguramos de que las partes no se gasten el dinero que no tienen? ¿De quien nos fiamos para que guarde el registro de transacciones?
+
+--
+
+SOLUCIÓN: Todas las transacciones tienen que ser públicas y todos los participantes en el sistema de transacciones tienen que estar de acuerdo en el orden en el que estas se han ido sucediendo.
+
+--
+
+NUEVO PROBLEMA: Necesitamos un sistema público y distribuido que garantice un consenso "matemático" de las transacciones que se han ido sucediendo.
+
+---
+
+## Red P2P
+
+.center[![Red P2P](images/P2P-network.svg)]
+
+---
+
+## Timestamp Server
+
+.center[![TIMESTAMP SERVER](images/blockchain.svg)]
+
+---
+
+.center[![Droste effect](images/droste_effect.jpg)]
+
+---
+
+## Proof-of-Work
+
+.center[![Proof-of-Work](images/proof-of-work_v3.svg)]
+
+---
+
+## Consenso
+
+.center[![Consenso](images/Blockchain_chain.png)]
+
+---
+
+## Reglas para el funcionamiento de la red P2P
+
+.center[![Reglas Red P2P](images/Reglas_red_P2P.svg)]
+
+---
+
+.center[![Incentivo](images/cadena_de_transacciones_con_bloques.svg)]
+
+---
+
+## Bitcoin Core
+
+.center[![BitCoin Core](images/bitcoincore.jpg)]
+
+---
+
+## Privacidad
+
+.center[![Anonymous emblem](images/Anonymous_emblem.svg)]
+
+* Las claves (o direcciones) públicas son públicas, pero son sólo un número y por tanto, -de saque- son anónimas.
+
+--
+
+* No obstante, es habitual publicar una dirección para recibir pagos.
+
+--
+
+* Para evitar que sea posible inferir la identidad del propietario de las direcciones, nuevas direcciones deben generarse con cada nueva transacción.
+
+--
+
+* Aun así, el sistema no es perfecto por dos motivos:
+  * Asociación de claves en un mismo input
+  * Identificación de transacciones en base a dirección de red
+
+---
+
+## Cosas que se quedan en el tintero
+
+* Árboles de Merkle
+
+.center[![Merkle Tree](images/merkle_trees.jpg)]
+
+* Verificación simplificada de pagos
+* Demostración matemática de la robustez del sistema
+
+---
+
+.center[![Emosido engañado](images/emosido.jpg)]
+
+---
+## De Bitcoin a Blockchain
+
+Partimos de [una transacción](https://blockchain.info/tx/281754376BEEF3EA538A159F3CC10851400357DFA6E4B7E7CE05BFB35F57B87C). Esta misma transacción se puede ver con mucho más detalle con [otro visor](http://srv1.yogh.io/#tx:id:281754376BEEF3EA538A159F3CC10851400357DFA6E4B7E7CE05BFB35F57B87C).
+
+El primer output de la transacción de partida se ha gastado en [esta otra transacción](https://blockchain.info/tx/f388838aeebb0eb9ff9a439a97451e60fa548bc95b63969abf0436a5523ab4fa). En [el visor más detallado](http://srv1.yogh.io/#tx:id:f388838aeebb0eb9ff9a439a97451e60fa548bc95b63969abf0436a5523ab4fa), se puede seguir como se ha ejecutado el script.
+
+El script que se emplea en Bitcoin es de tipo "Forth". Se basa en una pila, operaciones y datos. [Aquí vemos un ejemplo de como se ejecutan los scripts](http://paulkernfeld.com/bse/). También podemos probar a ejecutar scripts en [BitcoinIde](https://siminchen.github.io/bitcoinIDE/build/editor.html)
+
+Ejemplo de Script Bitcoin
+```
+3045022100ead7a9603efcbda32353595adf67dcfab43ca4fe462799b4f07ee9715c9545710220560457417275cf87ed2596a0b7546ad1644eb4c9c1525cad4b42944474628d1601
+028fa3430ac613f20d978b5ddc2b0a0604a3c6d2c415810bead2af17b9c1243cdc
+
+op_dup
+op_hash160
+938925D94E3C3CFBC610353263C10AE0EB9638F8
+op_equalverify
+op_checksig
+```
+
+Hacemos Fast Forward para ver [El código de una aplicación Ethereum](https://www.ethereum.org/token).
+
+---
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+
+![unicorn](images/unicorn.gif)
+
+---
+
+# Codigocracia
+.center[![Yes we code](images/yes_we_code.jpg)]
+---
+
+## ¡Gracias!
+
+#### @llyorshch
+
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+  <script>
+    var hljs = remark.highlighter.engine;
+  </script>
+  <script type="text/javascript">
+
+    // To run the slides execute python3 -m http.server∫
+    var slideshow = remark.create({
+      highlightStyle: 'monokai',
+      highlightLanguage: 'remark',
+      highlightLines: true,
+      slideNumberFormat: '%current%',
+      countIncrementalSlides: false,
+      navigation: {
+        scroll: false,
+        click: true
+      }
+    });
+      //var slideshow = remark.create();
+  </script>
+</body>
+
+</html>

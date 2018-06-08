@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="288"
+   height="288"
+   id="svg4545"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Public-key-crypto-1_wb.svg">
+  <metadata
+     id="metadata4645">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="900"
+     inkscape:window-height="803"
+     id="namedview4643"
+     showgrid="false"
+     inkscape:zoom="0.81944444"
+     inkscape:cx="-59.79661"
+     inkscape:cy="144"
+     inkscape:window-x="349"
+     inkscape:window-y="210"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4545" />
+  <defs
+     id="defs4547">
+    <pattern
+       id="checkerPattern"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="64"
+       height="64"
+       viewBox="0 0 32 32">
+      <rect
+         x="0"
+         y="0"
+         width="16"
+         height="16"
+         fill="lightblue"
+         id="rect4550" />
+      <rect
+         x="16"
+         y="16"
+         width="16"
+         height="16"
+         fill="lightblue"
+         id="rect4552" />
+    </pattern>
+    <radialGradient
+       id="greenGrad"
+       cx="48"
+       cy="16"
+       r="56"
+       fx="24"
+       fy="4"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="5%"
+         stop-color="lightgreen"
+         id="stop4555" />
+      <stop
+         offset="95%"
+         stop-color="#008000"
+         id="stop4557" />
+    </radialGradient>
+    <radialGradient
+       id="redGrad"
+       cx="48"
+       cy="16"
+       r="56"
+       fx="24"
+       fy="4"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="5%"
+         stop-color="red"
+         id="stop4560" />
+      <stop
+         offset="95%"
+         stop-color="brown"
+         id="stop4562" />
+    </radialGradient>
+    <mask
+       id="keyMask">
+      <!-- 104x48 -->
+      <circle
+         cx="24"
+         cy="24"
+         r="24"
+         fill="white"
+         stroke="white"
+         stroke-width="2"
+         id="circle4565" />
+      <circle
+         cx="18"
+         cy="24"
+         r="8"
+         fill="black"
+         stroke="white"
+         stroke-width="3"
+         id="circle4567" />
+      <path
+         d="M46 16 l50 0 l8 8 l-8 8    l-2 0 l-4 -4 l-2 2 l-2 -2 l-4 4 l-6 -6 l-2 2 l-2 -2 l-4 4 l-2 -2 l-2 2 l-4 -4 l-4 4 l-2 -2 l-4 4    l-4 0"
+         fill="white"
+         stroke="white"
+         stroke-width="2"
+         id="path4569" />
+    </mask>
+    <g
+       id="key"
+       mask="url(#keyMask)">
+      <!-- 104x48 -->
+      <circle
+         cx="24"
+         cy="24"
+         r="24"
+         stroke-width="2"
+         id="circle4572" />
+      <circle
+         cx="18"
+         cy="24"
+         r="8"
+         fill="white"
+         stroke-width="2"
+         id="circle4574" />
+      <path
+         d="M46 16 l50 0 l8 8 l-8 8    l-2 0 l-4 -4 l-2 2 l-2 -2 l-4 4 l-6 -6 l-2 2 l-2 -2 l-4 4 l-2 -2 l-2 2 l-4 -4 l-4 4 l-2 -2 l-4 4    l-4 0"
+         stroke-width="2"
+         id="path4576" />
+    </g>
+    <g
+       id="redKey"
+       fill="url(#redGrad)"
+       stroke="brown">
+      <use
+         xlink:href="#key"
+         id="use4579" />
+    </g>
+    <g
+       id="greenKey"
+       fill="url(#greenGrad)"
+       stroke="#008000">
+      <use
+         xlink:href="#key"
+         id="use4582" />
+    </g>
+    <g
+       id="alicePrivate">
+      <use
+         xlink:href="#redKey"
+         id="use4585" />
+      <text
+         x="28"
+         y="32"
+         font-size="20"
+         font-weight="bold"
+         font-family="DejaVu Sans"
+         fill="white"
+         stroke="brown"
+         id="text4587">A</text>
+      <text
+         x="48"
+         y="26"
+         font-size="12"
+         font-weight="bold"
+         font-family="DejaVu Sans"
+         fill="white"
+         id="text4589">Private</text>
+    </g>
+    <g
+       id="alicePublic">
+      <use
+         xlink:href="#greenKey"
+         id="use4592" />
+      <text
+         x="28"
+         y="32"
+         font-size="20"
+         font-weight="bold"
+         font-family="DejaVu Sans"
+         fill="white"
+         stroke="green"
+         id="text4594">A</text>
+      <text
+         x="48"
+         y="26"
+         font-size="12"
+         font-weight="bold"
+         font-family="DejaVu Sans"
+         fill="white"
+         id="text4596">Public</text>
+    </g>
+    <g
+       id="randomNumberBox">
+      <rect
+         width="100"
+         height="48"
+         fill="blue"
+         fill-opacity="0.3"
+         stroke="blue"
+         stroke-width="2"
+         id="rect4599" />
+      <text
+         x="0"
+         y="14"
+         font-size="16"
+         font-family="DejaVu Sans Mono"
+         fill="blue"
+         fill-opacity="0.3"
+         id="text4601">0110101010</text>
+      <text
+         x="0"
+         y="30"
+         font-size="16"
+         font-family="DejaVu Sans Mono"
+         fill="blue"
+         fill-opacity="0.3"
+         id="text4603">1101110100</text>
+      <text
+         x="0"
+         y="46"
+         font-size="16"
+         font-family="DejaVu Sans Mono"
+         fill="blue"
+         fill-opacity="0.3"
+         id="text4605">0011011010</text>
+      <text
+         x="25"
+         y="13"
+         font-size="16"
+         font-weight="bold"
+         font-family="DejaVu Sans"
+         id="text4607">Large</text>
+      <text
+         x="15"
+         y="29"
+         font-size="16"
+         font-weight="bold"
+         font-family="DejaVu Sans"
+         id="text4609">Random</text>
+      <text
+         x="15"
+         y="45"
+         font-size="16"
+         font-weight="bold"
+         font-family="DejaVu Sans"
+         id="text4611">Number</text>
+    </g>
+    <g
+       id="keyGeneratorBox">
+      <rect
+         width="100"
+         height="48"
+         fill="orange"
+         fill-opacity="0.3"
+         stroke="orange"
+         stroke-width="2"
+         id="rect4614" />
+      <text
+         x="33"
+         y="13"
+         font-size="16"
+         font-weight="bold"
+         font-family="DejaVu Sans"
+         id="text4616">Key</text>
+      <text
+         x="1"
+         y="29"
+         font-size="16"
+         font-weight="bold"
+         font-family="DejaVu Sans"
+         id="text4618">Generation</text>
+      <text
+         x="12"
+         y="45"
+         font-size="16"
+         font-weight="bold"
+         font-family="DejaVu Sans"
+         id="text4620">Program</text>
+    </g>
+    <marker
+       id="triangle"
+       markerUnits="userSpaceOnUse"
+       viewBox="0 0 10 10"
+       refX="10"
+       refY="5"
+       orient="auto"
+       markerWidth="10"
+       markerHeight="10">
+      <path
+         d="M0 0 l10 5 l-10 5"
+         fill="black"
+         id="path4623" />
+    </marker>
+  </defs>
+  <rect
+     x="16"
+     y="16"
+     width="256"
+     height="256"
+     fill="pink"
+     fill-opacity="0.2"
+     stroke="pink"
+     id="rect4625"
+     style="fill:#ffffff;fill-opacity:1" />
+  <text
+     x="96"
+     y="52"
+     font-size="36"
+     font-weight="bold"
+     font-family="DejaVu Sans"
+     id="text4627">Alice</text>
+  <use
+     xlink:href="#randomNumberBox"
+     x="94"
+     y="72"
+     id="use4629" />
+  <path
+     d="M144 120 l0 20"
+     stroke="black"
+     stroke-width="1"
+     marker-end="url(#triangle)"
+     id="path4631" />
+  <use
+     xlink:href="#keyGeneratorBox"
+     x="94"
+     y="140"
+     id="use4633" />
+  <path
+     d="M128 188 l-48 48"
+     stroke="black"
+     stroke-width="1"
+     marker-end="url(#triangle)"
+     id="path4635" />
+  <path
+     d="M160 188 l48 48"
+     stroke="black"
+     stroke-width="1"
+     marker-end="url(#triangle)"
+     id="path4637" />
+  <use
+     xlink:href="#alicePublic"
+     x="32"
+     y="220"
+     id="use4639" />
+  <use
+     xlink:href="#alicePrivate"
+     x="152"
+     y="220"
+     id="use4641" />
+</svg>
